@@ -27,11 +27,19 @@ Un diaporama d’images fonctionnel et responsive uniquement en CSS.
 ```bash
 /
 ├── index.html
+│    ├── présentation et intérêt
+│    ├── Parallaxe
 ├── style.css
 ├── voyage.html
+│   ├── Milan
+│   ├── Crète
+│   ├── Carrousel
+├── bonplan.html
+├── apropos.html
+│   ├── Video.mp4
 ├── contact.html
 ├── Medias/
 │   ├── image1.jpg
 │   ├── image2.jpg
 │   └── ...
-└── README.md# Projet-finale
+└── README.md
